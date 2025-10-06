@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		ED9664532E94064C00D92409 /* Dynamic_List.cpp in Sources */ = {isa = PBXBuildFile; fileRef = ED9664522E94064C00D92409 /* Dynamic_List.cpp */; };
+		EDE9B2A92E945B8B00A0BC38 /* Dynamic_List.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EDE9B2A82E945B8B00A0BC38 /* Dynamic_List.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,8 +24,8 @@
 
 /* Begin PBXFileReference section */
 		ED1DBE532E87A6360004263A /* Data Structures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Data Structures"; sourceTree = BUILT_PRODUCTS_DIR; };
-		ED9664522E94064C00D92409 /* Dynamic_List.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Dynamic_List.cpp; sourceTree = "<group>"; };
-		ED9664542E94064E00D92409 /* Dynamic_List.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Dynamic_List.hpp; sourceTree = "<group>"; };
+		EDE9B2A72E945B8500A0BC38 /* Dynamic_List.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Dynamic_List.hpp; sourceTree = "<group>"; };
+		EDE9B2A82E945B8B00A0BC38 /* Dynamic_List.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Dynamic_List.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -50,8 +50,8 @@
 		ED1DBE4A2E87A6360004263A = {
 			isa = PBXGroup;
 			children = (
-				ED9664542E94064E00D92409 /* Dynamic_List.hpp */,
-				ED9664522E94064C00D92409 /* Dynamic_List.cpp */,
+				EDE9B2A72E945B8500A0BC38 /* Dynamic_List.hpp */,
+				EDE9B2A82E945B8B00A0BC38 /* Dynamic_List.cpp */,
 				ED1DBE552E87A6360004263A /* Data Structures */,
 				ED1DBE542E87A6360004263A /* Products */,
 			);
@@ -128,7 +128,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED9664532E94064C00D92409 /* Dynamic_List.cpp in Sources */,
+				EDE9B2A92E945B8B00A0BC38 /* Dynamic_List.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
